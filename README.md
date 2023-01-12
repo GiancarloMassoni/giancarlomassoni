@@ -41,7 +41,7 @@ I am from Orange County, California and have had a passion for tech since I was 
 
 
 
--
+
 ### 👨‍💻 Programming Languages
 
 <p>
